@@ -1,4 +1,6 @@
-# Abstract
+# Automatic detection of hate speech in text: an overview of the topic and dataset annotation with hierarchical classes
+
+### Abstract
 
 The use of the internet and social networks, in particular for communication, has significantly increased in recent years. This growth has also resulted in the adoption of more aggressive communication. Therefore it is important that governments and social network platforms have tools to detect this type of communication, because it can be harmful to its targets. In this thesis we investigate the problem of detecting hate speech posted online.
 
